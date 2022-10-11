@@ -47,7 +47,7 @@
                                     <li>Course Price: {{ $course->course_price_range	 }}</li><br>
                                     <li>Course Level: {{ $course->course_level	 }}</li><br>
                                     {{-- document --}}
-                                      <li>Download Requirements: <!-- DOWNLOAD FILE -->
+                                      <li style="border:1px solid; border-color:#009900; padding: 10px; ">Download Requirements: <!-- DOWNLOAD FILE -->
                                         @if ($course->requirements_document_one)
                                         <a href="{!! asset($course->requirements_document_one) !!}" target="_blank">
                                             <button type="button" class="btn btn-primary" data-bs-toggle="modal"
