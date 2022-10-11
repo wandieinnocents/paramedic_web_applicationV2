@@ -57,7 +57,8 @@
                                         </a>
                                         @else
                                             <p class="text-danger">No Document</p>
-                                        @endif </li>
+                                        @endif 
+                                        </li>
                                       
                                 </ul>
                                 <h5>Course Description</h5>
