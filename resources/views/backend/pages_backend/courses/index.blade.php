@@ -347,7 +347,8 @@
                                                                 <label class="form-label" for="validationCustom05">
                                                                     Add Additional Document</label>
                                                                 <input type="file" class="form-control"
-                                                                    name="requirements_document_two"
+                                                                    name="requirements_document_one"
+                                                                    value="{{ $course->requirements_document_one }}"
                                                                     id="validationCustom05" placeholder="">
                                                             </div>
                                                         </div>
@@ -364,6 +365,7 @@
                                                                     Add Additional Document</label>
                                                                 <input type="file" class="form-control"
                                                                     name="requirements_document_two"
+                                                                    value="{{ $course->requirements_document_two }}"
                                                                     id="validationCustom05" placeholder="">
                                                             </div>
                                                         </div>
@@ -379,7 +381,8 @@
                                                                 <label class="form-label" for="validationCustom05">
                                                                     Add Additional Document</label>
                                                                 <input type="file" class="form-control"
-                                                                    name="requirements_document_two"
+                                                                    name="requirements_document_three"
+                                                                    value="{{ $course->requirements_document_three }}"
                                                                     id="validationCustom05" placeholder="">
                                                             </div>
                                                         </div>
