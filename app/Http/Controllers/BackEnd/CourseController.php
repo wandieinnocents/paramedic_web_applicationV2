@@ -195,7 +195,9 @@ class CourseController extends Controller
         $course->requirements_document_three   = url('uploads' . '/document_three_attachments/'  . $filename);
     }
 
+    // dd($course);
     $course->save();
+
 
     return redirect('/courses');
     }
