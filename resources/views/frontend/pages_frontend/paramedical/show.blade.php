@@ -45,7 +45,21 @@
                                     <li>Duration: {{ $course->course_years	 }}</li> <br>
                                     <li>Course Level: {{ $course->course_level	 }}</li><br>
                                     <li>Course Price: {{ $course->course_price_range	 }}</li><br>
-                                    <li>Course Level: {{ $course->course_level	 }}</li>
+                                    <li>Course Level: {{ $course->course_level	 }}</li><br>
+                                    {{-- document --}}
+                                      <li style="border:1px solid; border-color:#009900; padding: 10px; ">Download Requirements: <!-- DOWNLOAD FILE -->
+                                        @if ($course->requirements_document_one)
+                                        <a href="{!! asset($course->requirements_document_one) !!}" target="_blank">
+                                            <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                data-bs-whatever="@getbootstrap">
+                                                <i class="fa fa-download" style="color:#ffffff;"></i>
+                                            </button>
+                                        </a>
+                                        @else
+                                            <p class="text-danger">No Document</p>
+                                        @endif 
+                                        </li>
+                                      
                                 </ul>
                                 <h5>Course Description</h5>
                                 <p>{{ $course->description }}</p>

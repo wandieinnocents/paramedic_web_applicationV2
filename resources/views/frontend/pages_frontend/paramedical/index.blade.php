@@ -72,7 +72,7 @@
                                      <li><span class="price">Fees : {{ $paramedic_course->course_price_range }} UGX</span></li>
                                  </ul>
                                     <h3 class="course-title">
-                                        <a href="course-single.html">
+                                        <a href="#">
                                             {{ $paramedic_course->course_name }}
                                         </a>
                                     </h3>
