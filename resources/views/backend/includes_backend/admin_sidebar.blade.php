@@ -143,7 +143,7 @@
                     </ul>
                 </li> --}}
                 <!-- Projects -->
-                <li>
+                <!-- <li>
                     <a href="javascript: void(0);" class="has-arrow">
                         <i class="fas fa-university"></i>
                         <span data-key="t-apps">Projects</span>
@@ -170,7 +170,7 @@
                             </a>
                         </li>
                     </ul>
-                </li>
+                </li> -->
                 {{-- courses --}}
                  <li>
                     <a href="javascript: void(0);" class="has-arrow">
