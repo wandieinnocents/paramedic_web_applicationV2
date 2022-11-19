@@ -11,7 +11,7 @@
                                     </li>
                                     <li>
                                         <i class="flaticon-location"></i>
-                                       Maya - Nakirebe along Kampala - Masaka Road
+                                       Maya - Nakirebe along Kampala -  Masaka Road
                                     </li>
                                 </ul>
                             </div>
