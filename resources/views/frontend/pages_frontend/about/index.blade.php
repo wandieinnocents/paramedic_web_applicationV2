@@ -39,7 +39,7 @@
 								<div class="sub-title orange">About IPI</div>
 								<h2 class="title mb-17">The International Paramedical Institute</h2>
 								<div class="bold-text mb-22">IPI is a science institution,  training dental professionals, clinical officers and many other health care courses,</div>
-								<div class="desc">It is founded by Bunawona Uganda Community Outreach (BUCO) which is determined to help, treat and prevent oral conditions and many other health care problems in Uganda. It has a modern and spacious dental clinic, medical laboratories, dormitories, Medical equipment, classrooms and well stalked library and computer laboratory.</div>
+								<div class="desc">It was founded by Bunawona Uganda Community Outreach (BUCO) which is determined to help, treat and prevent oral conditions and many other health care problems in Uganda. It has a modern and spacious dental clinic, medical laboratories, dormitories, Medical equipment, classrooms and well stalked library and computer laboratory.</div>
 								<div class="desc">We target Ugandan students who have attained the UCE and UACE certificates plus International students from outside Uganda especially Tanzania, Kenya, South Sudan, Democratic Republic of Congo, Somalia, Rwanda and Burundi plus other countries.Young aspirants study in a stimulating environment of independent thinking and innovation in various disciplines of Health Care. </div>
 							</div>
 						</div>
